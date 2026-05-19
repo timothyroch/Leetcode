@@ -1,6 +1,4 @@
-Watch Full Playlist on Youtube:
-
-<h3 align="center">🎥 NeetCode 150 Playlist Videos</h3>
+<h3 align="center">🎥 Watch My Solutions to the NeetCode 150 Questions</h3>
 
 <table align="center">
   <tr>
